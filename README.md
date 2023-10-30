@@ -23,7 +23,7 @@ I also saw that we are unfortunately missing any data on the time and amount of 
 - A graph of how many hosts joined and when shows an increase every year with no signs of slowing down.
 
 ## Results
-1. Inconclusive - The review score does seem slightly correlated to price but more info would be needed on whether there is causation or just correlation.  Higher priced units being better quality could lead to better reviews, or hosts could be charging more becuase they a higher review score
+1. Inconclusive - The review score does seem slightly correlated to price but more info would be needed on whether there is causation or just correlation.  Its possible hosts are charging more because they have a higher review score,  but it is also possible there is a 3rd variable ( Actualy Quality of the Unit) that is affecting both of those stats.
  
 2. The majority of listings are in Manhattan and Brooklyn, but they also have the highest average prices, which indicates demand is strong too.  Although we dont have any info on bookings, we can probably say that those are the most popular areas for people to stay.
 
@@ -35,3 +35,4 @@ The data set was not super detailed, and alot of the columns were not very usefu
 ## Future Goals
 - If no time series data is available then I would see if i could create my own by web scraping over a month or two.  It would also be useful to be able to see how many bookings get made and where, because this is not in the data either.
 - Because the review scores are so positively skewed, maybe we could take the log of it or transform it in some way so that it can be a better predictor.  
+- Collecting data on the quality of units would help determine if review scores matter.
