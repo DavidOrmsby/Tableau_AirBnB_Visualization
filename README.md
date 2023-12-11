@@ -1,10 +1,11 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-In this Project I will explore the data fom AirBnB New york in tableau to see if we can gain any insights into the market.   I used the  dataset available here: (https://docs.google.com/spreadsheets/d/1BJWyZpZrrRUla_EQ6Pnusy0KH31UMGf2/edit?usp=sharing&ouid=108445376648788204707&rtpof=true&sd=true)
+## Project/Goals
+In this Project I will explore the data from AirBnB New York in Tableau to see if we can gain any insights into the market. I used the dataset available [here](https://docs.google.com/spreadsheets/d/1BJWyZpZrrRUla_EQ6Pnusy0KH31UMGf2/edit?usp=sharing&ouid=108445376648788204707&rtpof=true&sd=true).
 
-The tableau sheets and dashboard can be viewed here and is much nicer than the pdf:
-https://public.tableau.com/app/profile/david.ormsby5889/viz/Tableau_Project_16985236841750/Dashboard1?publish=yes
+The Tableau sheets and dashboard can be viewed [here](https://public.tableau.com/app/profile/david.ormsby5889/viz/Tableau_Project_16985236841750/Dashboard1?publish=yes) and are much nicer than the PDF.
+
 
 ## Process
 ### Exploring
