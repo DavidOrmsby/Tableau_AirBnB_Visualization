@@ -24,7 +24,7 @@ I also saw that we are unfortunately missing any data on the time and amount of 
 - A graph of how many hosts joined and when shows an increase every year with no signs of slowing down.
 
 ## Results
-1. Inconclusive - The review score does seem slightly correlated to price but more info would be needed on whether there is causation or just correlation.  Its possible hosts are charging more because they have a higher review score,  but it is also possible there is a 3rd variable ( Actualy Quality of the Unit) that is affecting both of those stats.
+1. Inconclusive - The review score does seem slightly correlated to price but more info would be needed on whether there is causation or just correlation.  Its possible hosts are charging more because they have a higher review score,  but it is also possible there is a 3rd variable ( Actual Quality of the Unit) that is affecting both of those stats.
  
 2. The majority of listings are in Manhattan and Brooklyn, but they also have the highest average prices, which indicates demand is strong too.  Although we dont have any info on bookings, we can probably say that those are the most popular areas for people to stay.
 
